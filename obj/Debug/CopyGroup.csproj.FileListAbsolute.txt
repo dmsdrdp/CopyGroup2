@@ -1,0 +1,6 @@
+C:\Users\Dmitriy\Documents\CopuGrop\CopuGrop\bin\Debug\CopuGrop.dll
+C:\Users\Dmitriy\Documents\CopuGrop\CopuGrop\bin\Debug\CopuGrop.pdb
+C:\Users\Dmitriy\Documents\CopuGrop\CopuGrop\obj\Debug\CopyGroup.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Documents\CopuGrop\CopuGrop\obj\Debug\CopyGroup.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Documents\CopuGrop\CopuGrop\obj\Debug\CopuGrop.dll
+C:\Users\Dmitriy\Documents\CopuGrop\CopuGrop\obj\Debug\CopuGrop.pdb
